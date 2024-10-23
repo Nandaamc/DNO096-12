@@ -1,0 +1,110 @@
+[
+    {
+        "nombre": "kuky",
+        "descripcion": "Trabajo realizado en Taller 5 en conjunto con la empresa Nestle, se buscaba innovar productos de la linea de la galleta Kuky. Al equipo se le entregó un producto de la marca y se tuvo que hacer un estudio de este, indentificando problemas y oportunidades diseño. Se logró llegar a dos distintos reultados que se pueden ver desplegados en la lámina final.",
+        "fecha": "2023",
+        "signo": "productos",
+        "foto": "https://github.com/user-attachments/assets/15fce562-71ed-4283-a33d-808b386159f9",
+        "fotos": ["kuky-1.jpg", "kuky-2.jpg", "kuky-3.jpg"],
+        "github": "https://github.com/Nandaamc"
+    },
+    {
+        "nombre": "ámbar",
+        "descripcion": "Trabajo realizado en Taller 4, producto hecho a base de un biomaterial. Se trabajo con una receta abierta de un biomaterial, más conocido como cuero de fruta. Su principal característica es que este se puede disolver en agua caliente dejando 0 residuos",
+        "fecha": "2023",
+        "signo": "productos",
+        "foto": "https://github.com/user-attachments/assets/fc7c7eaf-5735-449c-abc5-47f5698a0fc8",
+        "fotos": ["ámbar-1.jpg", "ámbar-2.jpg", "ámbar-3.jpg"],
+        "github": "https://github.com/Nandaamc"
+    },
+    {
+        "nombre": "sisam ux",
+        "descripcion": "Trabajo freelancer, se hizo un rediseño completo de la página web de un centro de salud mental. Presentaba principalmente problemas de diagramación, por lo que se pidió un diseño nuevo marcando la identidad de la marca",
+        "fecha": "2024",
+        "signo": "web ux",
+        "foto": "https://github.com/user-attachments/assets/7093a134-d223-4a0f-968b-311d0b8e8e8f",
+        "fotos": ["sisam-ux-1.jpg", "sisam-ux-2.jpg", "sisam-ux-3.jpg"],
+        "github": "https://github.com/Nandaamc"
+    },
+    {
+        "nombre": "fotografía silvestre",
+        "descripcion": "Recopilación visual de animales silvestres.",
+        "fecha": "2024",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/405b1eb0-6c67-40a3-85f5-e9128f360889",
+        "fotos": ["fotografía-silvestre-1.jpg", "fotografía-silvestre-2.jpg", "fotografía-silvestre-3.jpg"],
+        "github": "https://github.com/Nandaamc"
+    },
+    {
+        "nombre": "moodboards",
+        "descripcion": "Recopilación visual de moodboards que se han hecho para varias intancias en la carrera. Son de distintos proyectos, pero todos cumplen el objetivo de querer trasmitir sensaciones y emociones",
+        "fecha": "2021-2024",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/ca925aa8-21b9-475f-9ba7-924342a7fd70",
+        "fotos": ["moodboards-1.jpg", "moodboards-2.jpg", "moodboards-3.jpg"],
+        "github": "https://github.com/Nandaamc"
+    },
+    {
+        "nombre": "afiches",
+        "descripcion": "Recopilación de algunos afiches y láminas que se han hecho a lo largo de la carrera.",
+        "fecha": "2021-2024",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/75df7dae-6b90-4f77-a57f-6c9f8efb5bf7",
+        "fotos": ["afiches-1.jpg", "afiches-2.jpg", "afiches-3.jpg"],
+        "github": "https://github.com/Nandaamc"
+    },
+    {
+        "nombre": "Piel de tinta",
+        "descripcion": "Trabajo realizado en el primer semestre del 2024, se realizo una página de instagram que sluciona un problema de comunicación en el mundo de los tatuajes.",
+        "fecha": "2024",
+        "signo": "productos",
+        "foto": "https://github.com/user-attachments/assets/b9a5093c-dc5d-4301-aef8-0ba5d6ade9fc",
+        "fotos": ["piel-de-tinta-1.jpg", "piel-de-tinta-2.jpg", "piel-de-tinta-3.jpg"],
+        "github": "https://github.com/Nandaamc"
+    },
+    {
+        "nombre": "Ilustraciones",
+        "descripcion": "Recopilación visual de diversas ilustraciones con distintos estilos",
+        "fecha": "2021-2024",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/e717da0d-1201-4257-a6c8-dd994da9439f",
+        "fotos": ["ilustraciones-1.jpg", "ilustraciones-2.jpg", "ilustraciones-3.jpg"],
+        "github": "https://github.com/Nandaamc"
+    },
+    {
+        "nombre": "massacra",
+        "descripcion": "Desarrollo de un producto en Taller 3, se busco oportunidades de diseño en un nicho logrando un producto innovador.",
+        "fecha": "2022",
+        "signo": "productos",
+        "foto": "https://github.com/user-attachments/assets/f1a6f461-9a81-428a-8afb-1d08c044eec3",
+        "fotos": ["massacra.jpg", "massacra.jpg", "massacra.jpg"],
+        "github": "https://github.com/Nandaamc"
+    },
+    {
+        "nombre": "ecocitex",
+        "descripcion": "Trabajo de taller 5, se trabajó en conjunto con un emprendimiento analizando los productos y viendo las oportunidades.",
+        "fecha": "2023",
+        "signo": "productos",
+        "foto": "https://github.com/user-attachments/assets/bdfc89b0-2962-4dda-b0e4-b850f717db76",
+        "fotos": ["ecocitex-1.jpg", "ecocitex.jpg", "ecocitex.jpg"],
+        "github": "https://github.com/Nandaamc"
+    },
+    {
+        "nombre": "Tornamesa",
+        "descripcion": "Analisis de un producto antiguo, buscando un desarrollo y sintesis en una lámina.",
+        "fecha": "2023",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/2b1f2b09-0143-41d7-84e5-7c4be3d6c0a5",
+        "fotos": ["tornamesa.jpg", "tornamesa.jpg", "tornamesa.jpg"],
+        "github": "https://github.com/Nandaamc"
+    },
+    {
+        "nombre": "Crochet",
+        "descripcion": "Desarrollo de una marca y sus productos hechos de forma artesanal y principalmente de lana.",
+        "fecha": "2021",
+        "signo": "productos",
+        "foto": "https://github.com/user-attachments/assets/9f441793-9d55-4d17-86f7-76fc4f3906e2",
+        "fotos": ["crochet.jpg", "crochet.jpg", "crochet.jpg"],
+        "github": "https://github.com/Nandaamc"
+    }
+]
