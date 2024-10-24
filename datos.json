@@ -14,7 +14,7 @@
         "fecha": "2023",
         "signo": "productos",
         "foto": "https://github.com/user-attachments/assets/fc7c7eaf-5735-449c-abc5-47f5698a0fc8",
-        "fotos": ["ámbar-1.jpg", "ámbar-2.jpg", "ámbar-3.jpg"],
+        "fotos": ["ambar-1.jpg", "ambar-2.jpg", "ambar-3.jpg"],
         "github": "https://github.com/Nandaamc"
     },
     {
@@ -32,7 +32,7 @@
         "fecha": "2024",
         "signo": "visual",
         "foto": "https://github.com/user-attachments/assets/405b1eb0-6c67-40a3-85f5-e9128f360889",
-        "fotos": ["fotografía-silvestre-1.jpg", "fotografía-silvestre-2.jpg", "fotografía-silvestre-3.jpg"],
+        "fotos": ["fotografia-silvestre-1.jpg", "fotografia-silvestre-2.jpg", "fotografia-silvestre-3.jpg"],
         "github": "https://github.com/Nandaamc"
     },
     {
@@ -41,7 +41,7 @@
         "fecha": "2021-2024",
         "signo": "visual",
         "foto": "https://github.com/user-attachments/assets/ca925aa8-21b9-475f-9ba7-924342a7fd70",
-        "fotos": ["moodboards-1.jpg", "moodboards-2.jpg", "moodboards-3.jpg"],
+        "fotos": ["moodboard-1.jpg", "moodboard-2.jpg", "moodboard-3.jpg"],
         "github": "https://github.com/Nandaamc"
     },
     {
@@ -50,7 +50,7 @@
         "fecha": "2021-2024",
         "signo": "visual",
         "foto": "https://github.com/user-attachments/assets/75df7dae-6b90-4f77-a57f-6c9f8efb5bf7",
-        "fotos": ["afiches-1.jpg", "afiches-2.jpg", "afiches-3.jpg"],
+        "fotos": ["afiche-1.jpg", "afiche-2.jpg", "afiche-3.jpg"],
         "github": "https://github.com/Nandaamc"
     },
     {
@@ -59,7 +59,7 @@
         "fecha": "2024",
         "signo": "productos",
         "foto": "https://github.com/user-attachments/assets/b9a5093c-dc5d-4301-aef8-0ba5d6ade9fc",
-        "fotos": ["piel-de-tinta-1.jpg", "piel-de-tinta-2.jpg", "piel-de-tinta-3.jpg"],
+        "fotos": ["pdt-1.jpg", "pdt-2.jpg", "pdt-3.jpg"],
         "github": "https://github.com/Nandaamc"
     },
     {
@@ -68,7 +68,7 @@
         "fecha": "2021-2024",
         "signo": "visual",
         "foto": "https://github.com/user-attachments/assets/e717da0d-1201-4257-a6c8-dd994da9439f",
-        "fotos": ["ilustraciones-1.jpg", "ilustraciones-2.jpg", "ilustraciones-3.jpg"],
+        "fotos": ["ilustracion-1.jpg", "ilustracion-2.jpg", "ilustracion-3.jpg"],
         "github": "https://github.com/Nandaamc"
     },
     {
@@ -77,7 +77,7 @@
         "fecha": "2022",
         "signo": "productos",
         "foto": "https://github.com/user-attachments/assets/f1a6f461-9a81-428a-8afb-1d08c044eec3",
-        "fotos": ["massacra.jpg", "massacra.jpg", "massacra.jpg"],
+        "fotos": ["massacra-1.jpg", "massacra-2.jpg", "massacra-3.jpg"],
         "github": "https://github.com/Nandaamc"
     },
     {
@@ -95,7 +95,7 @@
         "fecha": "2023",
         "signo": "visual",
         "foto": "https://github.com/user-attachments/assets/2b1f2b09-0143-41d7-84e5-7c4be3d6c0a5",
-        "fotos": ["tornamesa.jpg", "tornamesa.jpg", "tornamesa.jpg"],
+        "fotos": ["tornamesa-1.jpg", "tornamesa-2.jpg", "tornamesa-3.jpg"],
         "github": "https://github.com/Nandaamc"
     },
     {
@@ -104,7 +104,7 @@
         "fecha": "2021",
         "signo": "productos",
         "foto": "https://github.com/user-attachments/assets/9f441793-9d55-4d17-86f7-76fc4f3906e2",
-        "fotos": ["crochet.jpg", "crochet.jpg", "crochet.jpg"],
+        "fotos": ["crochet-1.jpg", "crochet-2.jpg", "crochet-3.jpg"],
         "github": "https://github.com/Nandaamc"
     }
 ]
